@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,50:203a43,100:2c5364&text=tidesluck&fontColor=ffffff&fontSize=64&fontAlignY=38&desc=%D0%9F%D0%BB%D0%B0%D0%B3%D0%B8%D0%BD%D1%8B%20%C2%B7%20%D0%A0%D0%B0%D1%81%D1%88%D0%B8%D1%80%D0%B5%D0%BD%D0%B8%D1%8F%20%C2%B7%20%D0%9D%D0%B5%D0%B9%D1%80%D0%BE%D1%81%D0%B5%D1%82%D0%B8%20%C2%B7%20%D0%9C%D1%83%D0%B7%D1%8B%D0%BA%D0%B0&descAlignY=58&descSize=20&animation=fadeIn" width="100%" alt="tidesluck">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,50:203a43,100:2c5364&text=tidesluck&fontColor=ffffff&fontSize=64&fontAlignY=38&desc=%D0%9F%D0%BB%D0%B0%D0%B3%D0%B8%D0%BD%D1%8B%20%C2%B7%20%D0%A0%D0%B0%D1%81%D1%88%D0%B8%D1%80%D0%B5%D0%BD%D0%B8%D1%8F%20%C2%B7%20%D0%9D%D0%B5%D0%B9%D1%80%D0%BE%D1%81%D0%B5%D1%82%D0%B8%20%C2%B7%20%D0%9C%D1%83%D0%B7%D1%8B%D0%BA%D0%B0&descAlignY=58&descSize=20&animation=fadeIn" width="100%" alt="TIDESLUCK">
 
 <a href="https://github.com/T1desLuck">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1200&color=2E9BD6&center=true&vCenter=true&width=720&height=40&lines=%D0%9F%D0%BB%D0%B0%D0%B3%D0%B8%D0%BD%D1%8B%20%D0%B4%D0%BB%D1%8F%20Photoshop;%D0%A0%D0%B0%D1%81%D1%88%D0%B8%D1%80%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B4%D0%BB%D1%8F%20Chrome%20%C2%B7%20Manifest%20V3;%D0%9D%D0%B5%D0%B9%D1%80%D0%BE%D1%81%D0%B5%D1%82%D0%B8%20%D0%BD%D0%B0%20PyTorch;%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B%20%D0%B4%D0%BB%D1%8F%20Windows%20%D0%B8%20%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F;%D0%91%D1%80%D0%B0%D1%83%D0%B7%D0%B5%D1%80%D0%BD%D1%8B%D0%B5%20%D0%B8%D0%B3%D1%80%D1%8B;%D0%9C%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%20%C2%B7%20Spotify%20%C2%B7%20Apple%20Music%20%C2%B7%20YouTube" alt="Плагины, расширения, нейросети, программы, игры, музыка">
@@ -101,8 +101,10 @@ VGG используется только для perceptual loss при обуч
 | **Archisight** | Windows | Чистит архив по датам в названиях папок и хранит только последние N дней. Безопасная логика удаления, автозапуск, трей, юнит-тесты ядра, сборка в `.exe` | [Сайт](https://t1desluck.github.io/Archisight/) · [Код](https://github.com/T1desLuck/Archisight) |
 | **Noon** | Игра | Ты кубик льда на солнечной террасе: прячься в тени колонн и не дай солнцу тебя растопить. Один `index.html`, canvas, телефон и компьютер, MIT | [Играть](https://t1desluck.github.io/Noon/) · [Код](https://github.com/T1desLuck/Noon) |
 | **NpyLabelNet** | Инструмент | Разметчик NPY-меток для изображений, мой первый проект | [Код](https://github.com/T1desLuck/NpyLabelNet) |
-| **Luma** | Мобильное приложение | Приложение для Google Play <!-- TODO: одна строка о том, что делает Luma, и ссылка на Google Play --> | [Код](https://github.com/T1desLuck/Luma) |
-| **qscan** | Мобильное приложение | Приложение для Google Play <!-- TODO: одна строка о том, что делает qscan, и ссылка на Google Play --> | [Код](https://github.com/T1desLuck/qscan) |
+| **Luma – Фонарик и SOS** | Мобильное приложение | Фонарик и режим SOS для мобильного устройства | [Google Play](https://play.google.com/store/apps/details?id=com.aiiql.luma&pcampaignid=web_share) · [Код](https://github.com/T1desLuck/Luma) |
+| **QScan — QR & Barcode Scanner** | Мобильное приложение | Сканер QR-кодов и штрихкодов | [Google Play](https://play.google.com/store/apps/details?id=com.aiiql.qscan&pcampaignid=web_share) · [Код](https://github.com/T1desLuck/qscan) |
+
+[Страница разработчика в Google Play](https://play.google.com/store/apps/dev?id=8473432240189370282&hl=ru)
 
 ---
 
