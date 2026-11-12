@@ -96,7 +96,7 @@ VGG используется только для perceptual loss при обуч
 
 | Проект | Тип | Что делает | Ссылки |
 |---|---|---|---|
-| **PhotoSizeLabels** | Плагин Photoshop | Считает все изображения на холсте и размечает размеры новыми слоями: для фото на документы и других задач. 🟡 В разработке | [Код](https://github.com/T1desLuck/PhotoSizeLabels) |
+| **PhotoSizeLabels** | Плагин Photoshop | Считает все изображения на холсте и размечает размеры новыми слоями: для фото на документы и других задач. 🟡 В разработке | [Сайт](https://t1desluck.github.io/PhotoSizeLabels/) · [Код](https://github.com/T1desLuck/PhotoSizeLabels) |
 | **SnapCrawler** | Веб-паук | Поиск, скачивание и фильтрация изображений. Scrapy и Playwright, параллельные модули обхода и фильтрации, дедупликация по pHash, эмуляция поведения человека. Лицензия Proprietary | [Код](https://github.com/T1desLuck/SnapCrawler) |
 | **Archisight** | Windows | Чистит архив по датам в названиях папок и хранит только последние N дней. Безопасная логика удаления, автозапуск, трей, юнит-тесты ядра, сборка в `.exe` | [Сайт](https://t1desluck.github.io/Archisight/) · [Код](https://github.com/T1desLuck/Archisight) |
 | **Noon** | Игра | Ты кубик льда на солнечной террасе: прячься в тени колонн и не дай солнцу тебя растопить. Один `index.html`, canvas, телефон и компьютер, MIT | [Играть](https://t1desluck.github.io/Noon/) · [Код](https://github.com/T1desLuck/Noon) |
